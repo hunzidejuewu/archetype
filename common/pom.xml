@@ -57,6 +57,11 @@
             <!--<groupId>com.treefinance.commonservice</groupId>-->
             <!--<artifactId>guid-service-facade</artifactId>-->
         <!--</dependency>-->
+        <!--基础工具-->
+        <dependency>
+            <groupId>joda-time</groupId>
+            <artifactId>joda-time</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
